@@ -2,12 +2,13 @@
     font-family: 'Open Sans', sans-serif;
 
 }
-
+/* banner section */
 .header{
     background-image: url('images/banner/banner3.png');
     background-size: cover;
     height: 100vh;
     margin-top: 0px;
+   
    
 }
 
@@ -31,4 +32,29 @@
     border-radius: 5px;
     color: #005FAC;
     font-weight: bold;
+}
+
+/* flex section img and text */
+.img-text{
+    display: flex;
+    gap: 80px;
+}
+
+.first-img{
+    margin-top: 180px;
+    margin-left: 200px;
+}
+
+.text-area{
+    margin-top: 300px;
+    margin-right: 320px;
+}
+.main-titles{
+    font-size: 40px;
+    font-weight: 700px;
+}
+
+.flex-para{
+    font-size: 16px;
+    color: #444343;
 }
