@@ -181,3 +181,28 @@
     text-align: justify;
     color: white;
 }
+
+.customer-flex{
+    display: flex;
+    margin-left: 150px;
+    margin-top: 70px;
+
+}
+
+.customer-flex img{
+width: 40%;
+}
+.happ-title{
+    font-size: 30px;
+    font-weight: 600;
+    text-align: center;
+}
+
+.cs-sec{
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.sec-para{
+    font-size: 18px;
+    text-align: center;
+}
