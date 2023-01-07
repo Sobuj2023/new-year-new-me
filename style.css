@@ -123,3 +123,61 @@
     font-weight: bold;
     
 }
+
+/* foote section */
+
+.pro-footer{
+    margin-right: 350px;
+    margin-left: 100px;
+    padding: 100px;
+}
+.pro-footer a{
+ text-decoration: none;
+ margin-top: 100px;
+}
+
+.footer-flex{
+    margin-top: 100px;
+    display: flex;
+    background: rgb(0, 0, 0);
+}
+
+.form-edit{
+    width: 250px;
+    height: 50px;
+    background: rgb(255, 255, 255);
+    border-radius: 5px;
+    
+}
+
+.sub-line{
+    margin-top: 110px;
+    margin-right: 250px;
+}
+
+.sub-btn{
+    margin-top: 20px;
+    border: 0;
+    color:white;
+    background: #005FAC;
+    padding: 15px;
+    font-size: 14px;
+    border-radius: 5px;
+}
+
+.Main-tit{
+    font-size: 30px;
+    font-weight: 600px;
+    color: white;
+}
+
+.subs-tit{
+    font-size: 25px;
+    font-weight: 600px;
+    color: white;
+}
+
+.text-sty{
+    text-align: justify;
+    color: white;
+}
